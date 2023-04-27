@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning GANNs and LLMs  
   
 
-- ❓ Ask me about anything related to Hyperspectral Imaging and Image Processing tools  
+- ❓ Ask me about anything related to Hyperspectral Imaging and Signal Processing tools  
   
 
 - ⚡ Fun fact: I do a home DIY project every month! Ask me about my sprinkler system.  
