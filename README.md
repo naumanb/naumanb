@@ -86,6 +86,11 @@
 
 <br/>  
 
+## 📚 Latest Medium Story
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+
+<br/> 
+
 ## Stats  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naumanb&show_icons=true&locale=en&layout=compact" alt="naumanb" /></p>
@@ -94,12 +99,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naumanb&" alt="naumanb" /></p>
 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-## 📚 Latest Medium Story
-<!-- MEDIUM-STORY-LIST:START -->
-<!-- MEDIUM-STORY-LIST:END -->
+<br/> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=naumanb&&style=flat-square" align="center" />
