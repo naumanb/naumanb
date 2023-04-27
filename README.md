@@ -97,6 +97,9 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+## 📚 Latest Medium Story
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=naumanb&&style=flat-square" align="center" />
