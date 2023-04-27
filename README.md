@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">Hey, I'm Nauman!</div>  
+# <div align="center">Hey, I'm Nauman!</div>  
   
 
-#### <div align="center">Image and Data Science Researcher</div>  
+### <div align="center">Image and Data Science Researcher</div>  
   
 
 - 🔭 I’m currently working on building a fullstack ML pipeline for a SAAS  
@@ -29,7 +29,7 @@
 
 
 
-### Frontend  
+### Languages  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -87,10 +87,14 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=naumanb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api?username=naumanb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=naumanb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naumanb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>  
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 <div align="center">
