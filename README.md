@@ -18,7 +18,7 @@
 - ❓ Ask me about anything related to Hyperspectral Imaging and Signal Processing tools  
   
 
-- ⚡ Fun fact: I do a home DIY project every month!
+- ⚡ Fun fact: I enjoy doing DIY projects in my free time!
   
 
 <br/>  
