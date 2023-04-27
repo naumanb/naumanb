@@ -24,7 +24,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 👨‍💻 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -70,7 +70,7 @@
 <br/>  
 
 
-## Connect with me  
+## 🤝 Connect with me  
 <div align="center">
 <a href="https://github.com/naumanb" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -86,12 +86,12 @@
 
 <br/>  
 
-## 📚 Latest Medium Story
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+## 📚 Latest Blog
+<a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nauman.m.baig/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nauman.m.baig/0" alt="Recent Article 0"> 
 
 <br/> 
 
-## Stats  
+## 🔥 Stats  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naumanb&show_icons=true&locale=en&layout=compact" alt="naumanb" /></p>
 
