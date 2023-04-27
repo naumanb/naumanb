@@ -87,12 +87,12 @@
 <br/>  
 
 
-## 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naumanb&show_icons=true&locale=en&layout=compact" alt="naumanb" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=naumanb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=naumanb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naumanb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br/>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naumanb&show_icons=true&locale=en" alt="naumanb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naumanb&" alt="naumanb" /></p>
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
