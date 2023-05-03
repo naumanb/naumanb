@@ -3,10 +3,9 @@
 </div>  
   
 
-# <div align="center">Hey, I'm Nauman!</div>  
+# <div align="center">Hey there! 👋</div>  
   
 
-### <div align="center">Image Analysis and Data Science Researcher</div>  
   
 
 - 🔭 I’m currently working on building a fullstack ML pipeline for a SAAS  
