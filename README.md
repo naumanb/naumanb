@@ -90,16 +90,6 @@
 
 <br/> 
 
-## 🔥 Stats  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naumanb&show_icons=true&locale=en&layout=compact" alt="naumanb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naumanb&show_icons=true&locale=en" alt="naumanb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naumanb&" alt="naumanb" /></p>
-
-<br/> 
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=naumanb&&style=flat-square" align="center" />
 </div>  
