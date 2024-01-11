@@ -8,16 +8,12 @@
 
   
 
-- 🔭 I’m currently working on building a fullstack ML pipeline for a SAAS  
-  
-
-- 🌱 I’m currently learning GANNs and LLMs  
-  
-
-- ❓ Ask me about anything related to Hyperspectral Imaging and Signal Processing 
-  
-
-- ⚡ Fun fact: I enjoy doing DIY projects in my free time!
+- 🔭 I’m currently building **Chatbot Apps using Langchain**
+- 🌱 Polishing skills on **Cloud Services and Intergrations**
+- 👯 Looking to collaborate on **AI Software Development**
+- ❓ Ask me about anything related to **Feature Engineering and ML Algorithms**
+- ⚡ I enjoy **reading** and doing **DIY projects** in my free time
+- 📫 Reach me at heybaig@gmail.com
   
 
 <br/>  
