@@ -8,8 +8,8 @@
 
   
 
-- 🔭 I’m currently building **Chatbot Apps using Langchain**
-- 🌱 Polishing skills on **Cloud Services and Intergrations**
+- 🔭 I’m currently prototyping **GPT-Based Apps**
+- 🌱 Polishing skills on **MLOps Frameworks**
 - 👯 Looking to collaborate on **AI Software Development**
 - ❓ Ask me about anything related to **Feature Engineering and ML Algorithms**
 - ⚡ I enjoy **reading** and doing **DIY projects** in my free time
