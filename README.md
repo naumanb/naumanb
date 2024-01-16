@@ -8,7 +8,7 @@
 
   
 
-- 🔭 I’m currently prototyping **GPT-Based Apps**
+- 🔭 I’m currently prototyping **GPT-Powered Apps**
 - 🌱 Polishing skills on **MLOps Frameworks**
 - 👯 Looking to collaborate on **AI Software Development**
 - ❓ Ask me about anything related to **Feature Engineering and ML Algorithms**
