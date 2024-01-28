@@ -8,8 +8,8 @@
 
   
 
-- 🔭 I’m currently prototyping **GPT-Powered Apps**
-- 🌱 Polishing skills on **MLOps Frameworks**
+- 🔭 I’m currently prototyping **MLOps Projects**
+- 🌱 Polishing skills on **LeetCode**
 - 👯 Looking to collaborate on **AI Software Development**
 - ❓ Ask me about anything related to **Feature Engineering and ML Algorithms**
 - ⚡ I enjoy **reading** and doing **DIY projects** in my free time
