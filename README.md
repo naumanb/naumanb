@@ -13,7 +13,7 @@
 - 👯 Looking to collaborate on **AI Software Development**
 - ❓ Ask me about anything related to **Feature Engineering and ML Algorithms**
 - ⚡ I enjoy **reading** and doing **DIY projects** in my free time
-- 📫 Reach me at heybaig@gmail.com
+- 📫 Reach me at hello@baig.bio
   
 
 <br/>  
