@@ -12,7 +12,7 @@
 - 🌱 Polishing skills on **LeetCode**
 - 👯 Looking to collaborate on **AI Software Development**
 - ❓ Ask me about anything related to **Feature Engineering and ML Algorithms**
-- ⚡ I enjoy **reading** and doing **DIY projects** in my free time
+- ⚡ I enjoy working on **DIY projects** in my free time
 - 📫 Reach me at hello@baig.bio
   
 
@@ -78,11 +78,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-## 📚 Latest Blog
-<a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nauman.m.baig/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nauman.m.baig/0" alt="Recent Article 0"> 
 
 <br/> 
 
