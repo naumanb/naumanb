@@ -10,8 +10,8 @@
 
 - 🔭 I’m currently prototyping **MLOps Projects**
 - 🌱 Polishing skills on **LeetCode**
-- 👯 Looking to collaborate on **AI Software Development**
-- ❓ Ask me about anything related to **Feature Engineering and ML Algorithms**
+- 👯 Looking to collaborate on **DevOps & MLOps Projects**
+- ❓ Ask me about anything related to **Quantitative Trading**
 - ⚡ I enjoy working on **DIY projects** in my free time
 - 📫 Reach me at hello@baig.bio
   
