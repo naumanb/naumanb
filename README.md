@@ -11,8 +11,6 @@
 - 🔭 I’m currently prototyping **MLOps Projects**
 - 🌱 Polishing skills on **LeetCode**
 - 👯 Looking to collaborate on **DevOps & MLOps Projects**
-- ❓ Ask me about anything related to **Quantitative Trading**
-- ⚡ I enjoy working on **DIY projects** in my free time
 - 📫 Reach me at hello@baig.bio
   
 
@@ -69,9 +67,6 @@
 <div align="center">
 <a href="https://github.com/naumanb" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/hellobaig" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/naumanb" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
