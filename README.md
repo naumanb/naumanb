@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Computer Vision and HCI Research Projects**
 - 🌱 Polishing skills on **LeetCode**
-- 👯 Looking to collaborate on **DevOps & MLOps Projects**
+- 👯 Looking to collaborate on **practical ML-related app ideas**
 - 📫 Reach me at contact@baig.bio
   
 
