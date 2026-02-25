@@ -8,10 +8,10 @@
 
   
 
-- 🔭 I’m currently prototyping **MLOps Projects**
+- 🔭 I’m currently working on **Computer Vision and HCI Research Projects**
 - 🌱 Polishing skills on **LeetCode**
 - 👯 Looking to collaborate on **DevOps & MLOps Projects**
-- 📫 Reach me at hello@baig.bio
+- 📫 Reach me at contact@baig.bio
   
 
 <br/>  
